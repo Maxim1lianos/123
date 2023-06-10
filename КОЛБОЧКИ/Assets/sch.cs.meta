@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 17c33ee344baaa64abde1d8024099f05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CountGoal: {fileID: 409650912543546155, guid: 692feb7efbde2df488e3a256520129a6, type: 3}
+  - mon: {fileID: 986880835332740808, guid: 1783149a1b0933a4884223910cbe5b32, type: 3}
+  - goal: {fileID: 2950247214681861527, guid: bb2584f9ac9b56b41aee413fa05d9a3e, type: 3}
+  - redLightMesh: {fileID: 2950247214681861523, guid: bb2584f9ac9b56b41aee413fa05d9a3e, type: 3}
+  - redLightMaterial: {fileID: 2100000, guid: ca252c7c4cb41f642a933e6c5b72fa25, type: 2}
+  - greenLightMaterial: {fileID: 2100000, guid: 0f9c74dcadfaa8345b984db37f7f0117, type: 2}
+  - itemsParent: {fileID: 919132149155446097, guid: 49e8fc453a8f50348be9f5b1e3ebdd9d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
